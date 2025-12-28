@@ -1,0 +1,33 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Never commit ComfyUI bulky folders if you ever copy anything in
+models/
+checkpoints/
+loras/
+vae/
+embeddings/
+controlnet/
+clip/
+clip_vision/
+upscale_models/
+custom_nodes/
+output/
+input/
+
+# Common large model files
+*.ckpt
+*.safetensors
+*.pt
+*.pth
+*.onnx
+*.bin
+*.zip
+*.7z
+*.rar
+
+# Logs
+*.log
