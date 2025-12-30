@@ -19,11 +19,11 @@ have significantly influenced my understanding and approach.
   Amazing ComyUI tutorials and resourses  The gold standard in ComfyUI training.
 
 - **Sebastian Kamph**  
-  [YouTube Channel](https://www.youtube.com/@sebastiankamph)
+  [YouTube Channel](https://www.youtube.com/@sebastiankamph)  
   Excellent AI trainer making complex concepts easy to understand.
 
 - **CG Pixel**  
-  [YouTube Channel](https://www.youtube.com/@cgpixel6745)
+  [YouTube Channel](https://www.youtube.com/@cgpixel6745)  
   Innovative ComfyUI tutorials and resources.
 
 ---
