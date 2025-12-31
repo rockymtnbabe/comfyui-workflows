@@ -1,6 +1,7 @@
 # comfyui-workflows
 
-Workflow library for ComfyUI experiments and production setups.
+Workflow library for ComfyUI experiments and production setups.  
+This repository contains ComfyUI workflow JSONs for image creation, editing and experimentation.
 
 ## Structure
 - `workflows/` – exported ComfyUI workflow JSONs
