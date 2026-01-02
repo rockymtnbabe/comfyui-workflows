@@ -1,8 +1,8 @@
-# Qwen Edit 2511 + ControlNet (v1)
+# Qwen Edit 2511 + ControlNet (v1.1)
 
 ## Version
-Workflow Version: v1.0  
-Last Updated: 2025-12-29
+Workflow Version: v1.1  
+Last Updated: 2025-01-02
 
 ## Purpose
 This workflow is designed for Qwen Image Edit with optional ControlNet guidance.
