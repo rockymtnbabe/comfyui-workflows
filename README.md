@@ -12,3 +12,7 @@ This repository contains ComfyUI workflow JSONs for image creation, editing and 
 `[topic]_[purpose]_[version]_[key_feature]_v#`
 
 Example: `qwen_edit_2511_controlnet_toggle_v1.json`
+
+## What is ComfyUI?
+- ComfyUI is a node-based interface for Stable Diffusion and related image generation workflows.
+- [CompfyUI Website](https://www.comfy.org/)
