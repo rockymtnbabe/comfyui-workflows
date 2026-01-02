@@ -38,4 +38,4 @@ I am so thankful for how they have helped me on my journey as an AI creator.
 
 The workflows here represent my curated and evolving implementations, shaped through
 experimentation and iteration, while openly acknowledging the creators who have guided
-and influenced my learning and provided rersources along the way.
+and influenced my learning and provided resources along the way.
