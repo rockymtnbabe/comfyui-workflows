@@ -14,7 +14,7 @@ have significantly influenced my understanding and approach.
   [YouTube Channel](https://www.youtube.com/@Aitrepreneur)  
   Practical tutorials and workflow inspiration for ComfyUI and image editing.
 
-- **Pixarama**  
+- **Pixaroma**  
   [YouTube Channel](https://www.youtube.com/@pixaroma)  
   Amazing ComyUI tutorials and resourses  The gold standard in ComfyUI training.
 
